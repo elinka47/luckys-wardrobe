@@ -1,4 +1,5 @@
 package net.luckystudios.luckyswardrobe.items;
+
 import net.luckystudios.luckyswardrobe.LuckysWardrobe;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;

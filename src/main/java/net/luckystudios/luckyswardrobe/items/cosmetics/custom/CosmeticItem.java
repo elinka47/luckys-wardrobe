@@ -1,12 +1,14 @@
 package net.luckystudios.luckyswardrobe.items.cosmetics.custom;
 
 import net.luckystudios.luckyswardrobe.LuckysWardrobe;
+import net.luckystudios.luckyswardrobe.items.ModItems;
 import net.luckystudios.luckyswardrobe.items.cosmetics.ModArmorMaterials;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.component.ItemAttributeModifiers;
 import org.jetbrains.annotations.Nullable;
